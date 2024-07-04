@@ -13,3 +13,4 @@ The main objective of the project is to develop a report which contains Sales tr
 In this project, I have used Python to analyze the Amazon Sales Data, created some visualizations to better understand the trends and patterns. I also used Tableau for creating an interactive dashboard for all the outcomes.
 
 # Tableau Dashboard Link:
+https://public.tableau.com/app/profile/kajal.raut/viz/Amazon_Sales_Dashboard_Final1/Dashboard1
